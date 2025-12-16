@@ -1,4 +1,4 @@
 package entitises;
 
-public enum RoomType {
+public enum RoomType { SUITE, FAMILY, INDIVIDUAL 
 }
